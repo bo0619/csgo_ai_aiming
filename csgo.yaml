@@ -1,0 +1,14 @@
+# dataset path
+# train: D:/VSCode/ObjectDetection/ultralytics-main/datasets/images/train
+# val: D:/VSCode/ObjectDetection/ultralytics-main/datasets/images/val
+# test: D:/VSCode/ObjectDetection/ultralytics-main/datasets/images/test
+
+train: "/content/data/images/train"
+val: "/content/data/images/val"
+test: "/content/data/images/test"
+
+# number of classes
+nc: 4
+
+# class names
+names: ["CT_HEAD", "CT_CHEST", "T_HEAD", "T_CHEST"]
