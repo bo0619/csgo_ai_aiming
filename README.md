@@ -7,4 +7,5 @@ A small example of using YOLOv8 for automatic aiming.
 ``` bash
 python csgo_ai_aiming\detect_enemy.py
 ```
-
+# Note
+This AI cheating software was only developed by hand, and functions such as interface, friend or foe recognition, and gun suppression have not been implemented
